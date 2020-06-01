@@ -1,3 +1,7 @@
+'''
+Author : Mochammad Ihza Rizky Karim
+'''
+
 # import library speech recognition
 import speech_recognition as sr 
 
