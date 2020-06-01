@@ -1,4 +1,4 @@
-# Simple-Speech-To-Text-Python
+# Simple Speech To Text Python
 Menerjemahkan Audio Suara Menjadi Teks
 
 Requirements (Kebutuhan) : 
