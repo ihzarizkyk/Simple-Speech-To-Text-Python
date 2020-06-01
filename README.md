@@ -1,7 +1,7 @@
 # Simple-Speech-To-Text-Python
 Menerjemahkan Audio Suara Menjadi Teks
 
-Requirements : 
+Requirements (Kebutuhan) : 
 
 1. Install Library SpeechRecognition
 2. Install Lirary Pyaudio untuk mengenali audio dari microphone
