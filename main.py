@@ -9,7 +9,7 @@ with sr.Microphone() as sumber:
 	print("Bicara Apapun : ")
 	audio = bicara.listen(sumber)
 	try:
-# buat variabel teks untuk menyimpan suara yang telah dikenal oleh google recognize
+# buat variabel teks untuk menyimpan suara agar dikenal oleh google recognize
 		teks = bicara.recognize_google(audio)
 # print hasil audio menjadi teks
 		print("Kamu Mengatakan : {}".format(teks))
