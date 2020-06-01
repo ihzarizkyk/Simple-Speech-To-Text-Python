@@ -8,4 +8,5 @@ Requirements (Kebutuhan) :
 3. Disarankan menggunakan Python versi 3
 
 Speech Recognition Library : https://pypi.org/project/SpeechRecognition/
+
 Pyaudio Library : https://pypi.org/project/PyAudio/
