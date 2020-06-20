@@ -1,5 +1,6 @@
 # Simple Speech To Text Python
 Menerjemahkan Audio Suara Menjadi Teks
+**Author : Mochammad Ihza Rizky Karim**
 
 Requirements (Kebutuhan) : 
 
