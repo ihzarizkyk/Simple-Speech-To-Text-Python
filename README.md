@@ -1,7 +1,5 @@
 # Simple Speech To Text Python
-Menerjemahkan Audio Suara Menjadi Teks,
-
-**Author : Mochammad Ihza Rizky Karim**
+Menerjemahkan Audio Suara Menjadi Teks
 
 Requirements (Kebutuhan) : 
 
@@ -9,6 +7,8 @@ Requirements (Kebutuhan) :
 2. Install Library Pyaudio untuk mengenali audio dari microphone
 3. Disarankan menggunakan Python versi 3
 
-Speech Recognition Library : https://pypi.org/project/SpeechRecognition/
+**Speech Recognition Library :** https://pypi.org/project/SpeechRecognition/
 
-Pyaudio Library : https://pypi.org/project/PyAudio/
+**Pyaudio Library :** https://pypi.org/project/PyAudio/
+
+**Author : Mochammad Ihza Rizky Karim**
